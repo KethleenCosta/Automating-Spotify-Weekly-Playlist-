@@ -1,3 +1,5 @@
+# Este projeto foi desenvolvido com base no tutorial "Spotify OAuth: Automating Discover Weekly Playlist" de Synsation no YouTube. 
+
 # import necessary modules
 import time
 import spotipy
